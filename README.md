@@ -1,5 +1,8 @@
 # Gambar bebas pakai turtlesim
 
+## Video penjelasan
+https://youtube.com/shorts/6YqGDeaxNrw?si=93rl5P22HRFNldyn
+
 ## Cara kerja
 Setiap garis digambar dengan:
 1. Angkat pena (`/turtle1/set_pen`)
